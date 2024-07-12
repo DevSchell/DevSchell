@@ -21,8 +21,8 @@ Olá! Meu nome é Leonardo Schell. Sou um estudante do 3º semestre da graduaç�
 
 ## Meus Contatos
 
-- [LinkedIn](#https://www.linkedin.com/in/leonardoschell/) - Vamos nos conectar!
-- [Instagram](#https://www.instagram.com/schell_leonardo/) - Siga-me para atualizações rápidas.
+- [LinkedIn](https://www.linkedin.com/in/leonardoschell/) - Vamos nos conectar!
+- [Instagram](https://www.instagram.com/schell_leonardo/) - Siga-me para atualizações rápidas.
 - [Email](mailto:schelldev@gmail.com) - Entre em contato diretamente.
 
 ---
