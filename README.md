@@ -3,7 +3,7 @@
 Sou um desenvolvedor apaixonado por design e desenvolvimento de sites, atualmente focado em aprender mais **desenvolvimento fullstack**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoschell/)
-[![GitHub](https://img.shields.io/github/followers/seuusuario?label=Follow&style=social)](https://github.com/DevSchell)
+[![GitHub](https://img.shields.io/github/followers/DevSchell?label=Follow&style=social)](https://github.com/DevSchell)
 
 ---
 
