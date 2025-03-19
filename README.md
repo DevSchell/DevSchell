@@ -25,12 +25,6 @@ Sou um desenvolvedor apaixonado por design e desenvolvimento de sites, atualment
 
 ---
 
-## 📊 Minhas Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevSchell&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/leonardoschell)
