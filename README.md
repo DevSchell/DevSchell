@@ -1,24 +1,37 @@
-# Olá, eu sou Leonardo Schell 👋
+# 👋 Olá, eu sou o Leonardo Schell!  
 
-Sou um desenvolvedor apaixonado por design e desenvolvimento de sites, atualmente focado em aprender mais **desenvolvimento fullstack**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoschell/)
-
+🎯 **Desenvolvedor em evolução | Aprendendo e criando todos os dias**  
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Sobre mim
+- 💻 Estudante de programação | 2º semestre da faculdade
+- 🔥 Aprendendo e praticando **C#, APIs, SQL, JavaScript, HTML, CSS, Flutter e Dart**
+- 🏗 Criando projetos e explorando novas tecnologias
+- ⚙️ Explorando o mundo da impressão 3D com minha **Creality Ender 3 V2**
+  
+---
 
-- 🎓 Atualmente estudando **Análise e Desenvolvimento de Sistemas**
-- 💻 Trabalho como desenvolvedor na **Mouts TI**
-- 📚 Explorando desenvolvimento front-end e back-end como .NET, RazorPages e Banco de Dados
-- 🌱 Sempre aprendendo novas linguagens e ferramentas. Atualmente me aprofundando em **JavaScript**
+## 🛠️ Tecnologias e Ferramentas  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git">
+</div>
 
 ---
 
-## 🔧 Tecnologias & Ferramentas
+## 📈 Estatísticas  
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSchell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSchell&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-![C#](https://img.shields.io/badge/-CSharp-000?&logo=csharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+---
+
+## 📫 Contato  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoschell) &nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schelldev@gmail.com)
