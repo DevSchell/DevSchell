@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 💻 Estudante de programação | 2º semestre da faculdade
+- 💻 Estudante de Bacharel em Ciências da Computação | 2º semestre da faculdade
 - 🔥 Aprendendo e praticando **C#, APIs, SQL, JavaScript, HTML, CSS, Flutter e Dart**
 - 🏗 Criando projetos e explorando novas tecnologias
 - ⚙️ Explorando o mundo da impressão 3D com minha **Creality Ender 3 V2**
