@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Estudante de Bacharel em Ciências da Computação | 2º semestre</p>
+<p align="left">💻 Bacharelado em Ciências da Computação | Cursando 3º semestre</p>
 
 ###
 
