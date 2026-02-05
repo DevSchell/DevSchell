@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔥 Atualmente desenvolvendo projetos em Flutter e Dart</p>
+<p align="left">🔥 Atualmente desenvolvendo projetos em Flutter/Dart e Go Lang</p>
 
 ###
 
